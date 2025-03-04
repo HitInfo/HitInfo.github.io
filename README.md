@@ -1,1 +1,1 @@
-Read me for HitInfo website
+https://HitInfo.github.io
